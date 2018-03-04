@@ -1,5 +1,5 @@
 ---
-cephfs_provisioner_image_repo: quay.io/kubespray/cephfs-provisioner
+cephfs_provisioner_image_repo: i.k8s/quay.io/kubespray/cephfs-provisioner
 cephfs_provisioner_image_tag: 92295a30
 
 cephfs_provisioner_namespace: "{{ system_namespace }}"

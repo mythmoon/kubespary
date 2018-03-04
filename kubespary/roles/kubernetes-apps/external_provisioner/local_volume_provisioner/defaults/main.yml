@@ -1,5 +1,5 @@
 ---
-local_volume_provisioner_image_repo: quay.io/external_storage/local-volume-provisioner
+local_volume_provisioner_image_repo: i.k8s/quay.io/external_storage/local-volume-provisioner
 local_volume_provisioner_image_tag: v2.0.0
 
 local_volume_provisioner_namespace: "{{ system_namespace }}"
